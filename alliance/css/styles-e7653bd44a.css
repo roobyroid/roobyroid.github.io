@@ -7,7 +7,6 @@
   font-family: "AnastasiaScript";
   font-style: normal;
   font-weight: 400;
-  font-display: swap;
   src: url("../fonts/AnastasiaScript/AnastasiaScript.eot");
   /* IE9 Compat Modes */
   src: local("AnastasiaScript"), local("Anastasia-Script"), url("../fonts/AnastasiaScript/AnastasiaScript.eot?#iefix") format("embedded-opentype"), url("../fonts/AnastasiaScript/AnastasiaScript.woff2") format("woff2"), url("../fonts/AnastasiaScript/AnastasiaScript.woff") format("woff"), url("../fonts/AnastasiaScript/AnastasiaScript.ttf") format("truetype"), url("/../fonts/AnastasiaScript/AnastasiaScript.svg#AnastasiaScript") format("svg");
@@ -19,7 +18,6 @@
   font-family: "AnastasiaScript-bold";
   font-style: normal;
   font-weight: 700;
-  font-display: swap;
   src: url("../fonts/AnastasiaScript/AnastasiaScript.eot");
   /* IE9 Compat Modes */
   src: local("AnastasiaScript"), local("Anastasia-Script"), url("../fonts/AnastasiaScript/AnastasiaScript.eot?#iefix") format("embedded-opentype"), url("../fonts/AnastasiaScript/AnastasiaScript.woff2") format("woff2"), url("../fonts/AnastasiaScript/AnastasiaScript.woff") format("woff"), url("../fonts/AnastasiaScript/AnastasiaScript.ttf") format("truetype"), url("/../fonts/AnastasiaScript/AnastasiaScript.svg#AnastasiaScript") format("svg");
