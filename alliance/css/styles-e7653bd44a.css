@@ -10,7 +10,7 @@
   font-display: swap;
   src: url("../fonts/AnastasiaScript/AnastasiaScript.eot");
   /* IE9 Compat Modes */
-  src: local("Montserrat Regular"), local("Montserrat-Regular"), url("../fonts/AnastasiaScript/AnastasiaScript.eot?#iefix") format("embedded-opentype"), url("../fonts/AnastasiaScript/AnastasiaScript.woff2") format("woff2"), url("../fonts/AnastasiaScript/AnastasiaScript.woff") format("woff"), url("../fonts/AnastasiaScript/AnastasiaScript.ttf") format("truetype"), url("/../fonts/AnastasiaScript/AnastasiaScript.svg#AnastasiaScript") format("svg");
+  src: local("AnastasiaScript"), local("Anastasia-Script"), url("../fonts/AnastasiaScript/AnastasiaScript.eot?#iefix") format("embedded-opentype"), url("../fonts/AnastasiaScript/AnastasiaScript.woff2") format("woff2"), url("../fonts/AnastasiaScript/AnastasiaScript.woff") format("woff"), url("../fonts/AnastasiaScript/AnastasiaScript.ttf") format("truetype"), url("/../fonts/AnastasiaScript/AnastasiaScript.svg#AnastasiaScript") format("svg");
   /* Legacy iOS */
 }
 
@@ -22,7 +22,7 @@
   font-display: swap;
   src: url("../fonts/AnastasiaScript/AnastasiaScript.eot");
   /* IE9 Compat Modes */
-  src: local("Montserrat Regular"), local("Montserrat-Regular"), url("../fonts/AnastasiaScript/AnastasiaScript.eot?#iefix") format("embedded-opentype"), url("../fonts/AnastasiaScript/AnastasiaScript.woff2") format("woff2"), url("../fonts/AnastasiaScript/AnastasiaScript.woff") format("woff"), url("../fonts/AnastasiaScript/AnastasiaScript.ttf") format("truetype"), url("/../fonts/AnastasiaScript/AnastasiaScript.svg#AnastasiaScript") format("svg");
+  src: local("AnastasiaScript"), local("Anastasia-Script"), url("../fonts/AnastasiaScript/AnastasiaScript.eot?#iefix") format("embedded-opentype"), url("../fonts/AnastasiaScript/AnastasiaScript.woff2") format("woff2"), url("../fonts/AnastasiaScript/AnastasiaScript.woff") format("woff"), url("../fonts/AnastasiaScript/AnastasiaScript.ttf") format("truetype"), url("/../fonts/AnastasiaScript/AnastasiaScript.svg#AnastasiaScript") format("svg");
   /* Legacy iOS */
 }
 
