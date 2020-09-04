@@ -1,0 +1,442 @@
+@media (min-width:768px) {
+
+    .tar:after,
+    .tal:after {
+        content: "";
+        position: absolute;
+        top: -25px;
+        bottom: -25px;
+        width: 1px;
+        background: #D7D7D7
+    }
+
+    .tar:after {
+        right: -15px
+    }
+
+    .tal:after {
+        left: -16px
+    }
+
+    .tar:before,
+    .tal:before {
+        z-index: 1;
+        content: "";
+        position: absolute;
+        top: 5px;
+        width: 14px;
+        height: 14px;
+        background: #77bc25
+    }
+
+    .tar:before {
+        right: -22px
+    }
+
+    .tal:before {
+        left: -23px
+    }
+}
+
+@media (max-width:767px) {
+    #head {
+        height: auto;
+    }
+
+    .top {
+        text-align: center
+    }
+
+    .logo {
+        float: none
+    }
+
+    .contact {
+        float: none;
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto
+    }
+
+    #head {
+        padding-top: 130px
+    }
+
+    #head h1 {
+        font-size: 30px;
+        line-height: 1.2
+    }
+
+    #head h2 {
+        font-size: 24px;
+        line-height: 1.2
+    }
+
+    section h2 {
+        font-size: 32px
+    }
+
+    .s1p,
+    .sec2 figure,
+    .sec2 ul {
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 290px
+    }
+
+    .sec2 h3 {
+        text-align: center
+    }
+
+    .bigradio+label {
+        margin-top: 10px;
+        width: 290px;
+        background: rgba(0, 0, 0, 0.5);
+        padding: 0 !important
+    }
+
+    section h2 {
+        font-size: 30px
+    }
+
+    .sec3 figure {
+        width: 100px;
+        float: left
+    }
+
+    .sec3 figure figcaption {
+        width: 170px;
+        top: 20px;
+        left: 100px;
+        height: 35px;
+        padding-left: 30px;
+        background: none
+    }
+
+    .btn.back,
+    .btn.next {
+        margin-top: 20px;
+        min-width: 120px;
+        font-size: 16px
+    }
+
+    .work {
+        display: none
+    }
+
+    .icon,
+    .sec3 ul,
+    ,
+    blockquote {
+        margin-left: auto !important;
+        margin-right: auto !important;
+        float: none !important;
+        max-width: 290px
+    }
+
+    blockquote {
+        margin-top: 100px
+    }
+
+    .s5f {
+        width: 100px;
+        padding: 0;
+        padding-left: 15px;
+        float: right
+    }
+
+    .s5p h3 {
+        text-align: left
+    }
+
+    .s5p p {
+        text-align: justify
+    }
+
+    .s5p {
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 290px;
+        position: relative
+    }
+
+    .s5p:after {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: -25px;
+        bottom: -25px;
+        width: 1px;
+        background: #D7D7D7
+    }
+
+    .s5p:before {
+        z-index: 1;
+        content: "";
+        position: absolute;
+        top: 54px;
+        left: -6px;
+        width: 14px;
+        height: 14px;
+        background: #77bc25
+    }
+
+    .fot {
+        width: 100%
+    }
+
+    .s6p {
+        margin-left: auto !important;
+        margin-right: auto !important;
+        float: none !important;
+        max-width: 290px
+    }
+
+    .s6p h3 {
+        text-align: center
+    }
+
+    .price {
+        text-align: center
+    }
+
+    .ip {
+        text-align: center
+    }
+}
+
+@media (max-width: 1070px) {
+    #head {
+        padding-top: 120px;
+        height: auto;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    #head {
+        padding-top: 120px;
+    }
+
+    .head h1 {
+        font-size: 36px
+    }
+
+    .sec2 figure,
+    .sec2 ul {
+        max-width: 360px;
+        margin-left: auto;
+        margin-right: auto
+    }
+
+    .sec2 h3 {
+        text-align: center
+    }
+
+    blockquote {
+        margin-top: 30px;
+        padding: 30px;
+        margin-left: 100px;
+        padding-left: 130px
+    }
+
+    blockquote figure {
+        left: -100px;
+        margin-left: 0;
+        top: 50%;
+        margin-top: -100px
+    }
+
+    blockquote figure:after {
+        -webkit-transform: rotate(-135deg);
+        -ms-transform: rotate(-135deg);
+        -o-transform: rotate(-135deg);
+        transform: rotate(-135deg)
+    }
+
+    .fot {
+        display: inline-block;
+        width: auto
+    }
+
+    .s6p {
+        max-width: 360px;
+        margin-left: auto;
+        margin-right: auto
+    }
+
+    .s6p h3 {
+        text-align: center
+    }
+
+    .logo {
+        float: none
+    }
+
+    .ip {
+        display: inline-block
+    }
+
+    .s8p {
+        max-width: 360px;
+        margin-left: auto;
+        margin-right: auto
+    }
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+    .menu li {
+        margin-right: 30px
+    }
+
+    .fot {
+        width: 100%
+    }
+}
+
+@media (min-width:1199px) {
+    .menu li {
+        margin-right: 50px
+    }
+}
+
+@media (max-width:991px) {
+    .menu {
+        position: fixed;
+        right: 0;
+        top: 50%;
+        width: 40px;
+        height: 50px;
+        border-radius: 50% 0 0 50%;
+        background: #77bc25 url(../img/menu.svg) 10px 50% no-repeat;
+        background-size: 25px;
+        -webkit-transition: all .5s;
+        -o-transition: all .5s;
+        transition: all .5s
+    }
+
+    .menu li {
+        display: none
+    }
+
+    .menu.mshow {
+        padding-top: 50px;
+        background: #77bc25 url(../img/close.svg) 50% 20px no-repeat;
+        background-size: 25px;
+        border-radius: 0;
+        top: 0;
+        height: 100%;
+        width: 100%
+    }
+
+    .menu.mshow li {
+        display: block;
+        text-align: center
+    }
+
+    .menu li a {
+        position: relative;
+        display: inline-block;
+        color: #fff;
+        padding: 15px 0;
+        text-transform: uppercase;
+        font-weight: 700;
+        -webkit-transition: all .5s;
+        -o-transition: all .5s;
+        transition: all .5s
+    }
+
+    .frame {
+        max-width: 360px;
+        margin: 30px auto 0;
+    }
+
+    .fotorama__wrap {
+        max-width: 100% !important;
+        width: auto !important;
+    }
+
+    .fotorama__stage {
+        max-width: 360px !important;
+        width: 100% !important;
+        height: 225px !important;
+        margin: 0 auto !important;
+    }
+
+    .fotorama__stage__shaft {
+        width: auto !important;
+    }
+}
+
+@media (min-width:992px) {
+    .bottom {
+        background: #1D1818
+    }
+
+    .menu li a {
+        position: relative;
+        display: inline-block;
+        color: #fff;
+        padding: 15px 0;
+        text-transform: uppercase;
+        font-weight: 700;
+        -webkit-transition: all .5s;
+        -o-transition: all .5s;
+        transition: all .5s
+    }
+
+    .menu li a:hover {
+        color: #77bc25
+    }
+
+    .menu li a:after {
+        content: "";
+        position: absolute;
+        right: -20px;
+        width: 20px;
+        height: 20px;
+        display: inline-block;
+        background: url(../img/down.svg) 50% no-repeat;
+        background-size: 12px
+    }
+
+    .menu li {
+        display: inline-block
+    }
+}
+
+
+
+@media (max-width: 767px) {
+    .frame {
+        max-width: 290px;
+    }
+    .fotorama__stage {
+        max-width: 270px !important;
+        height: 180px !important;
+    }
+
+    .s8p.last {
+        margin: 30px 0 0 -78px;
+    }
+}
+
+@media (max-width: 510px) {
+    .s8p {
+        display: block;
+    }
+    .s8p.last {
+        margin: 30px 0 0 0;
+    }
+}
+
+@media (max-height: 415px) {
+    #head {
+        min-height: 520px;
+    }
+}
+
+@media (max-width: 340px) {
+    #head h1 {
+        font-size: 26px;
+    }
+}
